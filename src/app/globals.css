@@ -1,0 +1,3 @@
+/* Legacy visual styles are linked directly from layout.tsx.
+   Tailwind remains installed for future gradual migration, but is not imported
+   while the original CSS is the source of truth. */
